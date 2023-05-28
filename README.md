@@ -1,4 +1,4 @@
-# IPFS -> CID -> BLOCKCHAIN TEST 
+# 🍇 LAB TEST 
 
 🔁 IPFS에 파일 업로드 후 CID 값 생성 -> BLOCKCHAIN에 CID값 INPUT
 
